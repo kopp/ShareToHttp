@@ -30,8 +30,4 @@ deploy:
     # use 'on.tags: true' to make sure that a deployment is only made if the commit is a tagged one
     # this is not done and no tag is given, github will create a random one, prefixed 'untagged-'
     repo: kopp/ShareToHttp
-  branches:
-    only:
-      - master
-      - feature/add-travis-ci
-
+    all_branches: true
