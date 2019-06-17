@@ -4,6 +4,14 @@ Android App to transfer texts and images quickly from your Android Device to a w
 ![travis build status](https://travis-ci.org/kopp/ShareToHttp.svg?branch=master)
 
 
+# Installation
+
+You can download a signed APK from the
+[releases](https://github.com/kopp/ShareToHttp/releases)
+section.
+To install it you need to enable installation from "unknown sources" in Android settings.
+
+
 # Usage
 
 - Share text and image(s) with this app.
