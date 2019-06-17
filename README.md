@@ -1,6 +1,8 @@
 # ShareToHttp
 Android App to transfer texts and images quickly from your Android Device to a web browser, e.g. on a PC.
 
+![travis build status](https://travis-ci.org/kopp/ShareToHttp.svg?branch=master)
+
 
 # Usage
 
